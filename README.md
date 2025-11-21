@@ -1,25 +1,34 @@
-# 🎮 Catálogo de Consoles, Jogos e Tecnologias
+# Base de Conhecimento — Consoles e Jogos
 
-Este projeto é um site completo que reúne informações sobre todos os consoles já lançados, consoles cancelados, jogos clássicos e modernos, além de tecnologias que marcaram a evolução da indústria dos videogames.
+Um catálogo interativo e visual de consoles de videogame, headsets de VR, tecnologias e jogos icônicos, construído com tecnologias web modernas. O projeto serve como uma enciclopédia dinâmica, permitindo aos usuários explorar a história e os detalhes do mundo do gaming.
 
-O objetivo é criar uma base de dados acessível, organizada e atualizada para entusiastas, colecionadores, pesquisadores e curiosos que desejam explorar a história dos games de forma clara e interativa.
+A interface apresenta um design limpo e responsivo, com um tema claro e escuro que se adapta automaticamente às preferências do sistema do usuário. Os itens são exibidos em cards com um efeito de foco elegante ao passar o mouse.
 
-📚 Funcionalidades
+## ✨ Funcionalidades
 
-🕹️ Lista de consoles lançados
+-   **Catálogo Dinâmico:** Exibe consoles, VRs e jogos a partir de um arquivo `data.json`, tornando a adição de novos itens simples e rápida.
+-   **Busca Inteligente:** Filtra os resultados em tempo real enquanto o usuário digita, pesquisando por nome, fabricante, geração e mais.
+-   **Filtragem por Categoria:** Navegue facilmente entre as seções "Consoles", "VR", "Jogos" ou veja todos os itens de uma vez.
+-   **Modal de Detalhes:** Clique em um item para abrir um pop-up com informações detalhadas, incluindo jogos principais, engine gráfica e links para sites oficiais.
+-   **Zoom de Imagem:** Amplie a imagem de um item dentro do modal para melhor visualização.
+-   **Tema Automático (Light/Dark Mode):** A interface se ajusta automaticamente ao tema (claro ou escuro) do seu sistema operacional.
+-   **Design Responsivo:** Totalmente funcional e otimizado para desktops, tablets e dispositivos móveis.
+-   **Efeitos Visuais Modernos:** Animações suaves de entrada, transições e efeitos de foco para uma experiência de usuário agradável e moderna.
 
-❌ Consoles cancelados e protótipos
+## 🚀 Tecnologias Utilizadas
 
-🎮 Catálogo de jogos com fichas completas
+Este projeto foi construído do zero utilizando apenas tecnologias web fundamentais:
 
-🧩 Tecnologias utilizadas ao longo das gerações
+-   **HTML5:** Para a estrutura semântica do conteúdo.
+-   **CSS3:** Para estilização, incluindo:
+    -   Variáveis CSS para fácil gerenciamento de temas.
+    -   Flexbox e Grid Layout para um layout robusto e responsivo.
+    -   Media Queries para adaptação a diferentes tamanhos de tela.
+    -   Transições e Animações para interatividade.
+-   **JavaScript (Vanilla):** Para toda a lógica e interatividade, incluindo:
+    -   `fetch` API para carregar dados do JSON local.
+    -   Manipulação do DOM para renderizar dinamicamente os cards e modais.
+    -   Implementação da lógica de busca, filtro e eventos.
 
-📅 Linha do tempo interativa
+## 📂 Estrutura do Projeto
 
-🔍 Sistema de busca e filtros avançados
-
-📱 Design responsivo (PC, tablet e mobile)
-
-🧠 Objetivo do Projeto
-
-Preservar e documentar a história dos videogames, incluindo sucessos, fracassos, curiosidades e avanços tecnológicos que moldaram o mercado ao longo das décadas.
