@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="style.css"/>
+    <title>Base de Conhecimento — Consoles</title>
+</head>
+<body>
+   <header class="header" id="site-header">
+       <h1>Base de Conhecimento — Consoles</h1>
+       <div class="search-wrap">
+        <input id="search" type="text" placeholder="Buscar por nome, fabricante, geração..." class="search-input" />
+        <button id="botao-busca">Buscar</button>
+       </div>
+   </header>
+
+   <main>
+        <div class="filter-container">
+            <button class="filter-btn active" data-category="all">Todos</button>
+            <button class="filter-btn" data-category="Console">Consoles</button>
+            <button class="filter-btn" data-category="VR">VR</button>
+            <button class="filter-btn" data-category="game">Jogos</button>
+        </div>
+         <section class="card-container" id="cards"></section>
+         <div id="noResults" class="no-results" style="display:none">Nenhum console encontrado.</div>
+   </main>
+
+   <footer class="footer">
+    <ul class="footer-links">
+        <li><a href="https://www.youtube.com/@solut333" target="_blank">YouTube</a></li>
+        <li><a href="https://www.instagram.com/viruzinpriv" target="_blank">Instagram</a></li>
+    </ul>
+   </footer>
+
+   <!-- Estrutura do Modal -->
+   <div id="modal-overlay" class="modal-overlay">
+     <div id="modal-content" class="modal-content">
+       <!-- O conteúdo será injetado aqui pelo JavaScript -->
+     </div>
+   </div>
+
+   <!-- Overlay para Zoom da Imagem -->
+   <div id="zoom-overlay" class="zoom-overlay">
+     <span id="zoom-close" class="zoom-close" title="Fechar zoom">&times;</span>
+     <img id="zoomed-image" src="" alt="Imagem ampliada">
+   </div>
+
+   <script src="script.js"></script>
+</body>
+</html>

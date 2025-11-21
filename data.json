@@ -1,0 +1,1131 @@
+[
+  {
+    "nome": "Magnavox Odyssey",
+    "fabricante": "Magnavox",
+    "ano_lancamento": 1972,
+    "geracao": "Primeira (inicial)",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Table Tennis",
+        "ano": 1972,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Ski",
+        "ano": 1972,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Simon Says",
+        "ano": 1972,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Considerado o primeiro console doméstico comercial.",
+    "imagem_url": "magnavox-odyssey.jpg"
+  },
+  {
+    "nome": "Atari 2600",
+    "fabricante": "Atari",
+    "ano_lancamento": 1977,
+    "geracao": "Segunda",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Space Invaders",
+        "ano": 1980,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Pitfall!",
+        "ano": 1982,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Adventure",
+        "ano": 1980,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Popularizou cartuchos intercambiáveis.",
+    "imagem_url": "atari-2600.jpg"
+  },
+  {
+    "nome": "Nintendo Entertainment System (NES)",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 1983,
+    "geracao": "Terceira",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Super Mario Bros.",
+        "ano": 1985,
+        "engine": "Custom"
+      },
+      {
+        "nome": "The Legend of Zelda",
+        "ano": 1986,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Metroid",
+        "ano": 1986,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "nes.jpg"
+  },
+  {
+    "nome": "Game Boy",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 1989,
+    "geracao": "Portátil clássico",
+    "tipo": "console portátil",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Tetris",
+        "ano": 1989,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Pokémon Red/Blue",
+        "ano": 1996,
+        "engine": "Game Freak Engine"
+      },
+      {
+        "nome": "Kirby's Dream Land",
+        "ano": 1992,
+        "engine": "HAL Engine"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Consoles portáteis pioneiros em sucesso comercial.",
+    "imagem_url": "game-boy.jpg"
+  },
+  {
+    "nome": "Sega Genesis / Mega Drive",
+    "fabricante": "Sega",
+    "ano_lancamento": 1988,
+    "geracao": "Quarta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Sonic the Hedgehog",
+        "ano": 1991,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Streets of Rage",
+        "ano": 1991,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Golden Axe",
+        "ano": 1989,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "sega-genesis.jpg"
+  },
+  {
+    "nome": "Super Nintendo Entertainment System (SNES)",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 1990,
+    "geracao": "Quarta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Super Mario World",
+        "ano": 1990,
+        "engine": "Custom"
+      },
+      {
+        "nome": "The Legend of Zelda: A Link to the Past",
+        "ano": 1991,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Super Metroid",
+        "ano": 1994,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "snes.jpg"
+  },
+  {
+    "nome": "PlayStation (PS1)",
+    "fabricante": "Sony",
+    "ano_lancamento": 1994,
+    "geracao": "Quinta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Final Fantasy VII",
+        "ano": 1997,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Metal Gear Solid",
+        "ano": 1998,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Crash Bandicoot",
+        "ano": 1996,
+        "engine": "Krome Studios Engine"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "playstation-1.png"
+  },
+  {
+    "nome": "Sega Saturn",
+    "fabricante": "Sega",
+    "ano_lancamento": 1994,
+    "geracao": "Quinta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Nights into Dreams...",
+        "ano": 1996,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Panzer Dragoon Saga",
+        "ano": 1998,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Virtua Fighter 2",
+        "ano": 1995,
+        "engine": "Sega Model 2"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "sega-saturn.jpg"
+  },
+  {
+    "nome": "Nintendo 64",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 1996,
+    "geracao": "Quinta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Super Mario 64",
+        "ano": 1996,
+        "engine": "Custom"
+      },
+      {
+        "nome": "The Legend of Zelda: Ocarina of Time",
+        "ano": 1998,
+        "engine": "Custom"
+      },
+      {
+        "nome": "GoldenEye 007",
+        "ano": 1997,
+        "engine": "Rareware Engine"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "nintendo-64.png"
+  },
+  {
+    "nome": "Dreamcast",
+    "fabricante": "Sega",
+    "ano_lancamento": 1998,
+    "geracao": "Sexta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Sonic Adventure",
+        "ano": 1998,
+        "engine": "Sonic Adventure Engine"
+      },
+      {
+        "nome": "Shenmue",
+        "ano": 1999,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Soulcalibur",
+        "ano": 1999,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Último console doméstico da Sega.",
+    "imagem_url": "dreamcast.jpg"
+  },
+  {
+    "nome": "PlayStation 2 (PS2)",
+    "fabricante": "Sony",
+    "ano_lancamento": 2000,
+    "geracao": "Sexta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Grand Theft Auto: San Andreas",
+        "ano": 2004,
+        "engine": "RenderWare"
+      },
+      {
+        "nome": "Shadow of the Colossus",
+        "ano": 2005,
+        "engine": "Custom"
+      },
+      {
+        "nome": "God of War",
+        "ano": 2005,
+        "engine": "Kinetica"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Console mais vendido da história.",
+    "imagem_url": "playstation-2.jpg"
+  },
+  {
+    "nome": "Xbox",
+    "fabricante": "Microsoft",
+    "ano_lancamento": 2001,
+    "geracao": "Sexta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Halo: Combat Evolved",
+        "ano": 2001,
+        "engine": "Bungie Engine"
+      },
+      {
+        "nome": "Fable",
+        "ano": 2004,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Forza Motorsport",
+        "ano": 2005,
+        "engine": "ForzaTech"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "xbox.jpg"
+  },
+  {
+    "nome": "GameCube",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 2001,
+    "geracao": "Sexta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Super Smash Bros. Melee",
+        "ano": 2001,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Metroid Prime",
+        "ano": 2002,
+        "engine": "Retro Studios Engine"
+      },
+      {
+        "nome": "The Legend of Zelda: The Wind Waker",
+        "ano": 2002,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "gamecube.png"
+  },
+  {
+    "nome": "Xbox 360",
+    "fabricante": "Microsoft",
+    "ano_lancamento": 2005,
+    "geracao": "Sétima",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Gears of War",
+        "ano": 2006,
+        "engine": "Unreal Engine 3"
+      },
+      {
+        "nome": "Halo 3",
+        "ano": 2007,
+        "engine": "Bungie Engine"
+      },
+      {
+        "nome": "Mass Effect",
+        "ano": 2007,
+        "engine": "Unreal Engine 3"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "xbox-360.png"
+  },
+  {
+    "nome": "PlayStation 3 (PS3)",
+    "fabricante": "Sony",
+    "ano_lancamento": 2006,
+    "geracao": "Sétima",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "The Last of Us",
+        "ano": 2013,
+        "engine": "Naughty Dog Game Engine"
+      },
+      {
+        "nome": "Uncharted 2",
+        "ano": 2009,
+        "engine": "Naughty Dog Game Engine"
+      },
+      {
+        "nome": "Metal Gear Solid 4",
+        "ano": 2008,
+        "engine": "Kojima Productions Engine"
+      }
+    ],
+    "status": "descontinuado",
+    "imagem_url": "playstation-3.png"
+  },
+  {
+    "nome": "Wii",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 2006,
+    "geracao": "Sétima",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Wii Sports",
+        "ano": 2006,
+        "engine": "Custom"
+      },
+      {
+        "nome": "The Legend of Zelda: Twilight Princess",
+        "ano": 2006,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Mario Kart Wii",
+        "ano": 2008,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Popularizou controles com detecção de movimento.",
+    "imagem_url": "wii.png"
+  },
+  {
+    "nome": "Wii U",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 2012,
+    "geracao": "Oitava",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Super Mario 3D World",
+        "ano": 2013,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Splatoon",
+        "ano": 2015,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Mario Kart 8",
+        "ano": 2014,
+        "engine": "Custom"
+      }
+    ],
+    "status": "descontinuado",
+    "observacoes": "Predecessor do Switch; teve adoção limitada.",
+    "imagem_url": "wii-u.png"
+  },
+  {
+    "nome": "PlayStation 4 (PS4)",
+    "fabricante": "Sony",
+    "ano_lancamento": 2013,
+    "geracao": "Oitava",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "God of War",
+        "ano": 2018,
+        "engine": "Santa Monica Studio Engine"
+      },
+      {
+        "nome": "The Last of Us Part II",
+        "ano": 2020,
+        "engine": "Naughty Dog Game Engine"
+      },
+      {
+        "nome": "Spider-Man",
+        "ano": 2018,
+        "engine": "Insomniac Engine"
+      }
+    ],
+    "status": "descontinuado (substituído pela PS5)",
+    "imagem_url": "playstation-4.png"
+  },
+  {
+    "nome": "Xbox One",
+    "fabricante": "Microsoft",
+    "ano_lancamento": 2013,
+    "geracao": "Oitava",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Halo 5: Guardians",
+        "ano": 2015,
+        "engine": "Bungie Engine"
+      },
+      {
+        "nome": "Forza Horizon 4",
+        "ano": 2018,
+        "engine": "ForzaTech"
+      },
+      {
+        "nome": "Gears 5",
+        "ano": 2019,
+        "engine": "Unreal Engine 4"
+      }
+    ],
+    "status": "descontinuado (substituído pela série X/S)",
+    "imagem_url": "xbox-one.jpg"
+  },
+  {
+    "nome": "Nintendo Switch",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 2017,
+    "geracao": "Nona/Transicional",
+    "tipo": "híbrido (doméstico/portátil)",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "The Legend of Zelda: Breath of the Wild",
+        "ano": 2017,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Animal Crossing: New Horizons",
+        "ano": 2020,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Super Mario Odyssey",
+        "ano": 2017,
+        "engine": "Custom"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Sucesso por combinar modo portátil e docked.",
+    "imagem_url": "nintendo-switch.jpg"
+  },
+  {
+    "nome": "PlayStation 5 (PS5)",
+    "fabricante": "Sony",
+    "ano_lancamento": 2020,
+    "geracao": "Nona",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Demon's Souls",
+        "ano": 2020,
+        "engine": "Bluepoint Engine"
+      },
+      {
+        "nome": "Ratchet & Clank: Rift Apart",
+        "ano": 2021,
+        "engine": "Insomniac Engine"
+      },
+      {
+        "nome": "Spider-Man: Miles Morales",
+        "ano": 2020,
+        "engine": "Insomniac Engine"
+      }
+    ],
+    "status": "ativo",
+    "imagem_url": "playstation-5.png"
+  },
+  {
+    "nome": "Xbox Series X / Series S",
+    "fabricante": "Microsoft",
+    "ano_lancamento": 2020,
+    "geracao": "Nona",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Halo Infinite",
+        "ano": 2021,
+        "engine": "Slipspace Engine"
+      },
+      {
+        "nome": "Forza Horizon 5",
+        "ano": 2021,
+        "engine": "ForzaTech"
+      },
+      {
+        "nome": "Microsoft Flight Simulator",
+        "ano": 2020,
+        "engine": "Asobo Studio Engine"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Duas variantes: Series X (alta performance) e Series S (mais acessível).",
+    "imagem_url": "xbox-series.png"
+  },
+  {
+    "nome": "Steam Deck",
+    "fabricante": "Valve",
+    "ano_lancamento": 2021,
+    "geracao": "Portátil/PC",
+    "tipo": "console portátil (PC portátil)",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Elden Ring",
+        "ano": 2022,
+        "engine": "FromSoftware Engine"
+      },
+      {
+        "nome": "Hades",
+        "ano": 2020,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Cyberpunk 2077",
+        "ano": 2020,
+        "engine": "REDengine 4"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Dispositivo portátil focado em jogos de PC via Steam.",
+    "imagem_url": "steam-deck.png"
+  },
+  {
+    "nome": "PlayStation VR",
+    "fabricante": "Sony",
+    "ano_lancamento": 2016,
+    "geracao": "Oitava (VR)",
+    "tipo": "headset de realidade virtual",
+    "categoria": "VR",
+    "principais_jogos": [
+      {
+        "nome": "Astro Bot Rescue Mission",
+        "ano": 2018,
+        "engine": "Unreal Engine 4",
+        "link_oficial": "https://store.playstation.com/pt-br/product/UP9000-CUSA12431_00-PLATFORMERVR00US"
+      },
+      {
+        "nome": "Beat Saber",
+        "ano": 2018,
+        "engine": "Unity",
+        "link_oficial": "https://www.beatsaber.com/"
+      },
+      {
+        "nome": "Resident Evil 7: Biohazard",
+        "ano": 2017,
+        "engine": "RE Engine",
+        "link_oficial": "https://store.playstation.com/pt-br/product/UP0102-CUSA03962_00-BH70000000000001"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Headset de VR para o PlayStation 4 e 5.",
+    "imagem_url": "playstation-vr.jpg",
+    "link_oficial": "https://www.playstation.com/pt-br/ps-vr/"
+  },
+  {
+    "nome": "Oculus Quest 2",
+    "fabricante": "Meta (Facebook)",
+    "ano_lancamento": 2020,
+    "geracao": "VR Standalone",
+    "tipo": "headset de realidade virtual",
+    "categoria": "VR",
+    "principais_jogos": [
+      {
+        "nome": "The Walking Dead: Saints & Sinners",
+        "ano": 2020,
+        "engine": "Unreal Engine 4",
+        "link_oficial": "https://www.oculus.com/experiences/quest/2897337400373711/"
+      },
+      {
+        "nome": "Superhot VR",
+        "ano": 2017,
+        "engine": "Unity",
+        "link_oficial": "https://www.oculus.com/experiences/quest/1924000361024234/"
+      },
+      {
+        "nome": "Population: One",
+        "ano": 2020,
+        "engine": "Unity",
+        "link_oficial": "https://www.oculus.com/experiences/quest/2564158073609422/"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Headset de VR standalone de grande sucesso.",
+    "imagem_url": "oculus-quest-2.jpg",
+    "link_oficial": "https://www.meta.com/br/quest/products/quest-2/"
+  },
+  {
+    "nome": "Valve Index",
+    "fabricante": "Valve",
+    "ano_lancamento": 2019,
+    "geracao": "PC VR",
+    "tipo": "headset de realidade virtual",
+    "categoria": "VR",
+    "principais_jogos": [
+      {
+        "nome": "Half-Life: Alyx",
+        "ano": 2020,
+        "engine": "Source 2",
+        "link_oficial": "https://www.half-life.com/pt/alyx/"
+      },
+      {
+        "nome": "Boneworks",
+        "ano": 2019,
+        "engine": "Unity",
+        "link_oficial": "https://store.steampowered.com/app/823500/BONEWORKS/"
+      },
+      {
+        "nome": "Pavlov VR",
+        "ano": 2017,
+        "engine": "Unreal Engine 4",
+        "link_oficial": "https://store.steampowered.com/app/555160/Pavlov/"
+      }
+    ],
+    "status": "ativo",
+    "observacoes": "Headset de alta fidelidade para jogos de PC VR.",
+    "imagem_url": "valve-index.jpg",
+    "link_oficial": "https://www.valvesoftware.com/index"
+  },
+  {
+    "nome": "Atari Jaguar",
+    "fabricante": "Atari",
+    "ano_lancamento": 1993,
+    "geracao": "Quinta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [
+      {
+        "nome": "Alien vs Predator",
+        "ano": 1994,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Tempest 2000",
+        "ano": 1994,
+        "engine": "Custom"
+      },
+      {
+        "nome": "Rayman",
+        "ano": 1995,
+        "engine": "Custom"
+      }
+    ],
+    "status": "cancelado",
+    "observacoes": "Considerado um fracasso comercial, foi o último console da Atari.",
+    "imagem_url": "atari-jaguar.jpg"
+  },
+  {
+    "nome": "Sega Neptune",
+    "fabricante": "Sega",
+    "ano_lancamento": 1995,
+    "geracao": "Quarta",
+    "tipo": "console doméstico",
+    "categoria": "Console",
+    "principais_jogos": [],
+    "status": "cancelado",
+    "observacoes": "Projeto cancelado que combinaria o Sega Genesis e o 32X em um único console.",
+    "imagem_url": "sega-neptune.jpg"
+  },
+  {
+    "nome": "Star Fox 2",
+    "fabricante": "Nintendo",
+    "ano_lancamento": 2017,
+    "geracao": "Quarta",
+    "tipo": "jogo",
+    "categoria": "Jogo Cancelado",
+    "principais_jogos": [],
+    "status": "cancelado",
+    "observacoes": "Originalmente cancelado em 1995, foi oficialmente lançado em 2017 com o SNES Classic Edition.",
+    "imagem_url": "star-fox-2.jpg"
+  },
+  {
+    "nome": "ColecoVision",
+    "fabricante": "Coleco",
+    "ano_lancamento": 1982,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Conhecido por trazer a qualidade gráfica dos fliperamas da época para o ambiente doméstico, destacando-se por seu conversor de Donkey Kong.",
+    "tags": [
+      "console doméstico",
+      "segunda geração",
+      "clássico",
+      "cartuchos"
+    ]
+  },
+  {
+    "nome": "Pac-Man (Arcade)",
+    "fabricante": "Namco",
+    "ano_lancamento": 1980,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Um dos jogos de arcade mais influentes da história, popularizando o gênero de labirinto e introduzindo um protagonista não violento icônico.",
+    "tags": [
+      "arcade",
+      "jogo clássico",
+      "labirinto",
+      "cultura pop"
+    ]
+  },
+  {
+    "nome": "Phantom Console",
+    "fabricante": "Infinium Labs",
+    "ano_lancamento": 2004,
+    "categoria": "Console",
+    "status": "cancelado",
+    "observacoes": "Um projeto ambicioso e controverso de console baseado em streaming de jogos por assinatura que nunca chegou a ser lançado, gerando muita especulação na mídia.",
+    "tags": [
+      "vaporware",
+      "streaming",
+      "console cancelado",
+      "hardware"
+    ]
+  },
+  {
+    "nome": "Hades",
+    "fabricante": "Supergiant Games",
+    "ano_lancamento": 2020,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Um roguelite aclamado que combina ação rápida com uma narrativa profunda e bem escrita baseada na mitologia grega.",
+    "tags": [
+      "indie",
+      "roguelite",
+      "hack and slash",
+      "mitologia"
+    ]
+  },
+  {
+    "nome": "Ray Tracing (Aceleração por Hardware)",
+    "fabricante": "Nvidia",
+    "ano_lancamento": 2018,
+    "categoria": "Tecnologia",
+    "status": "ativo",
+    "observacoes": "Técnica de renderização que simula o comportamento físico da luz, oferecendo reflexos, sombras e iluminação global ultrarrealistas em jogos compatíveis.",
+    "tags": [
+      "gráficos",
+      "renderização",
+      "hardware",
+      "realismo visual"
+    ]
+  },
+  {
+    "nome": "Neo Geo Pocket Color",
+    "fabricante": "SNK",
+    "ano_lancamento": 1999,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Um portátil colorido com controles de alta precisão (micro switch joystick) e excelente duração de bateria, muito popular no Japão.",
+    "tags": [
+      "portátil",
+      "SNK",
+      "terceiros",
+      "joystick preciso"
+    ]
+  },
+  {
+    "nome": "Ouya",
+    "fabricante": "Ouya Inc.",
+    "ano_lancamento": 2013,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Um microconsole baseado em Android financiado via Kickstarter, visando jogos independentes e um sistema totalmente aberto. Teve vida útil curta.",
+    "tags": [
+      "microconsole",
+      "android",
+      "crowdfunding",
+      "indie games"
+    ]
+  },
+  {
+    "nome": "Neo-Geo MVS (Multi Video System)",
+    "fabricante": "SNK",
+    "ano_lancamento": 1990,
+    "categoria": "Tecnologia",
+    "status": "descontinuado",
+    "observacoes": "Sistema de arcade que permitia aos operadores trocar facilmente entre vários jogos (cartuchos) em um único gabinete, otimizando o investimento.",
+    "tags": [
+      "arcade",
+      "modular",
+      "SNK",
+      "tecnologia de fliperama"
+    ]
+  },
+  {
+    "nome": "Doom (1993)",
+    "fabricante": "id Software",
+    "ano_lancamento": 1993,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Considerado um dos pais do gênero FPS moderno, popularizando o multiplayer em rede (deathmatch) e a distribuição shareware.",
+    "tags": [
+      "FPS",
+      "PC gaming",
+      "clássico",
+      "shooter"
+    ]
+  },
+  {
+    "nome": "Sega VR",
+    "fabricante": "Sega",
+    "ano_lancamento": 1993,
+    "categoria": "Tecnologia",
+    "status": "cancelado",
+    "observacoes": "Um acessório de Realidade Virtual para o Genesis/Mega Drive que foi exibido em feiras, mas cancelado devido a preocupações de que a tecnologia causasse enjoo nos usuários.",
+    "tags": [
+      "VR",
+      "periférico",
+      "cancelado",
+      "Sega Genesis"
+    ]
+  },
+  {
+    "nome": "Red Dead Redemption 2",
+    "fabricante": "Rockstar Games",
+    "ano_lancamento": 2018,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Um épico de mundo aberto que se destaca pela sua atenção minuciosa aos detalhes do ambiente, simulação de vida selvagem e profundidade narrativa.",
+    "tags": [
+      "mundo aberto",
+      "ação",
+      "western",
+      "narrativa"
+    ]
+  },
+  {
+    "nome": "Unreal Engine 5",
+    "fabricante": "Epic Games",
+    "ano_lancamento": 2022,
+    "categoria": "Tecnologia",
+    "status": "ativo",
+    "observacoes": "Motor gráfico de ponta conhecido por suas tecnologias Lumen (iluminação dinâmica) e Nanite (geometria virtualizada), elevando o nível do fotorrealismo.",
+    "tags": [
+      "motor gráfico",
+      "desenvolvimento",
+      "lumen",
+      "nanite"
+    ]
+  },
+  {
+    "nome": "Nvidia Shield Portable",
+    "fabricante": "Nvidia",
+    "ano_lancamento": 2013,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Um console portátil clamshell focado em streaming de jogos de PC e rodando títulos Android, apresentando um design robusto com controles integrados.",
+    "tags": [
+      "portátil",
+      "streaming",
+      "android",
+      "hardware niche"
+    ]
+  },
+  {
+    "nome": "Dragon Quest III",
+    "fabricante": "Enix (agora Square Enix)",
+    "ano_lancamento": 1988,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Revolucionário JRPG para Famicom que introduziu um sistema de classes complexo e uma estrutura de mundo aberto que influenciou inúmeros títulos posteriores.",
+    "tags": [
+      "JRPG",
+      "Famicom",
+      "clássico",
+      "sistema de classes"
+    ]
+  },
+  {
+    "nome": "HTC Vive Pro 2",
+    "fabricante": "HTC",
+    "ano_lancamento": 2021,
+    "categoria": "VR",
+    "status": "ativo",
+    "observacoes": "Headset de Realidade Virtual high-end conhecido por sua resolução 5K e amplo campo de visão, exigindo um PC potente para o seu funcionamento.",
+    "tags": [
+      "realidade virtual",
+      "VR",
+      "PC VR",
+      "high-end"
+    ]
+  },
+  {
+    "nome": "Nintendo Power Glove",
+    "fabricante": "Mattel",
+    "ano_lancamento": 1989,
+    "categoria": "Tecnologia",
+    "status": "descontinuado",
+    "observacoes": "Acessório controverso para o NES, era uma luva de controle de movimento. Embora icônico (graças ao filme 'O Gênio do Videogame'), era notoriamente difícil de usar.",
+    "tags": [
+      "periférico",
+      "controle de movimento",
+      "NES",
+      "clássico"
+    ]
+  },
+  {
+    "nome": "Commodore 64",
+    "fabricante": "Commodore International",
+    "ano_lancamento": 1982,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "O computador doméstico mais vendido de todos os tempos. Embora fosse um PC, serviu como uma plataforma de jogos fundamental com chips de som e gráficos avançados para a época.",
+    "tags": [
+      "computador doméstico",
+      "plataforma de jogos",
+      "clássico",
+      "C64"
+    ]
+  },
+  {
+    "nome": "Six Days in Fallujah (Versão Konami)",
+    "fabricante": "Konami / Atomic Games",
+    "ano_lancamento": 2009,
+    "categoria": "Jogo",
+    "status": "cancelado",
+    "observacoes": "Originalmente um jogo de tiro tático baseado em eventos reais da Guerra do Iraque, foi cancelado pela Konami devido à controvérsia e sensibilidade política do tema.",
+    "tags": [
+      "cancelado",
+      "shooter",
+      "polêmica",
+      "jogo de guerra"
+    ]
+  },
+  {
+    "nome": "Force Feedback (Rumble)",
+    "fabricante": "Vários",
+    "ano_lancamento": 1997,
+    "categoria": "Tecnologia",
+    "status": "ativo",
+    "observacoes": "Tecnologia introduzida em larga escala com o controle Rumble Pak do Nintendo 64, que usa motores de vibração para aumentar a imersão tátil nos jogos.",
+    "tags": [
+      "feedback háptico",
+      "imersão",
+      "periférico",
+      "vibração"
+    ]
+  },
+  {
+    "nome": "Celeste",
+    "fabricante": "Maddy Makes Games",
+    "ano_lancamento": 2018,
+    "categoria": "Jogo",
+    "status": "ativo",
+    "observacoes": "Um jogo de plataforma 2D desafiador, elogiado não apenas por sua jogabilidade precisa, mas também por abordar temas complexos como ansiedade e saúde mental.",
+    "tags": [
+      "indie",
+      "plataforma",
+      "narrativa forte",
+      "pixel art"
+    ]
+  },
+  {
+    "nome": "PC Engine / TurboGrafx-16",
+    "fabricante": "NEC / Hudson Soft",
+    "ano_lancamento": 1987,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Console de 8 bits com um chip gráfico de 16 bits, competindo diretamente com o NES. Foi o primeiro console a ter um acessório de CD-ROM.",
+    "tags": [
+      "console doméstico",
+      "quarta geração",
+      "clássico",
+      "CD-ROM"
+    ]
+  },
+  {
+    "nome": "V-Sync (Sincronização Vertical)",
+    "fabricante": "Diversos",
+    "ano_lancamento": 1980,
+    "categoria": "Tecnologia",
+    "status": "ativo",
+    "observacoes": "Recurso de software que sincroniza a taxa de quadros do jogo com a taxa de atualização do monitor para evitar o 'screen tearing' (quebra de tela).",
+    "tags": [
+      "gráficos",
+      "otimização",
+      "software",
+      "tela"
+    ]
+  },
+  {
+    "nome": "Google Stadia",
+    "fabricante": "Google",
+    "ano_lancamento": 2019,
+    "categoria": "Tecnologia",
+    "status": "descontinuado",
+    "observacoes": "Plataforma de jogos em nuvem que permitia jogar títulos AAA através do navegador ou dispositivos móveis, mas foi encerrada devido à baixa adesão de usuários.",
+    "tags": [
+      "cloud gaming",
+      "streaming",
+      "plataforma",
+      "encerramento"
+    ]
+  },
+  {
+    "nome": "Pokémon Red/Blue",
+    "fabricante": "Game Freak / Nintendo",
+    "ano_lancamento": 1996,
+    "categoria": "Jogo",
+    "status": "descontinuado",
+    "observacoes": "Jogos originais que deram início ao fenômeno Pokémon, definindo o formato de capturar, treinar e trocar criaturas para completar a Pokédex.",
+    "tags": [
+      "RPG",
+      "portátil",
+      "Game Boy",
+      "colecionável"
+    ]
+  },
+  {
+    "nome": "Sega 32X",
+    "fabricante": "Sega",
+    "ano_lancamento": 1994,
+    "categoria": "Console",
+    "status": "descontinuado",
+    "observacoes": "Um periférico 'add-on' caro e de vida curta para o Sega Genesis/Mega Drive, projetado para estender a vida útil do console para 32 bits antes do lançamento do Saturn.",
+    "tags": [
+      "acessório",
+      "extensão",
+      "hardware",
+      "fracasso comercial"
+    ]
+  }
+]
